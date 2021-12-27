@@ -24,3 +24,17 @@ Build Models
 Use of features to increase accuracy
 Time Series Analysis
 ![image](https://user-images.githubusercontent.com/16415155/147431903-10ccd1c6-2eb4-475f-a6c3-786bc9222a80.png)
+
+# Strategy
+PE Ratio eg below 20 - buy
+Plan a exit profit price and loss price. 
+Also make a time exit
+Rebalancing
+Purpose: percentage
+Timeline: month or weeks
+ 
+ Creteria:
+ MA50 above MA200
+ PE below 40 entry
+ PE above 60 exit
+ Uptrend

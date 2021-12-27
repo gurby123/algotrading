@@ -33,8 +33,10 @@ Rebalancing
 Purpose: percentage
 Timeline: month or weeks
  
- Creteria:
- MA50 above MA200
- PE below 40 entry
- PE above 60 exit
- Uptrend
+ Creteria/Rule :
+a. MA50 above MA200
+b. PE below 40 entry
+c. PE above 60 exit
+d. Uptrend
+
+2. Determine Quantity based on maximum lost at stop loss ($500 (max loss) divided by loss per share at stop loss)

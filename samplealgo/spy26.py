@@ -3,9 +3,9 @@ import numpy as np
 class FatRedOrangeLeopard(QCAlgorithm):
 
  def Initialize(self):
-  self.SetStartDate(2017, 1, 30)
+  self.SetStartDate(2018, 1, 30)
   self.SetCash(100000) 
-  self.SetEndDate(2021,1,30)
+  self.SetEndDate(2021,12,30)
   self.symbol = self.AddEquity("SPY", Resolution.Daily).Symbol
   self.lookback=20
   self.ceiling,self.floor = 30, 10
